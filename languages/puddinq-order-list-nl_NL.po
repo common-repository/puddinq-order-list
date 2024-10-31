@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Enhanced order list for WooCommerce\n"
+"POT-Creation-Date: 2019-11-09 08:51+0100\n"
+"PO-Revision-Date: 2019-11-09 08:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: puddinq-order-list.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/Filter.php:29
+msgid "Number"
+msgstr "Nummer"
+
+#: classes/Filter.php:30 includes/filter.php:11
+msgid "Date"
+msgstr "Datum"
+
+#: classes/Filter.php:31 includes/filter.php:13
+msgid "Products"
+msgstr "Producten"
+
+#: classes/Filter.php:32 includes/filter.php:14
+msgid "Billing"
+msgstr "Factuur adres"
+
+#: classes/Filter.php:33 includes/filter.php:15
+msgid "Ship to"
+msgstr "Verzend naar"
+
+#: classes/Filter.php:35 classes/Filter.php:40 includes/filter.php:16
+msgid "Customer message"
+msgstr "Klant notitie"
+
+#: classes/Filter.php:43 classes/Filter.php:44 includes/filter.php:17
+msgid "Status"
+msgstr "Status"
+
+#: classes/Filter.php:45 includes/filter.php:19
+msgid "Total"
+msgstr "Totaal"
+
+#: classes/Filter.php:46 includes/filter.php:18
+msgid "Actions"
+msgstr "Acties"
+
+#: classes/Filter.php:126 includes/filter.php:70
+#, php-format
+msgid "Plus %d other note"
+msgid_plural "Plus %d other notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/Filter.php:131 includes/filter.php:73
+#, php-format
+msgid "%d note"
+msgid_plural "%d notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/Filter.php:158 includes/filter.php:202
+msgid "On-hold"
+msgstr "In de wacht"
+
+#: classes/Filter.php:159 includes/filter.php:203
+msgid "Change order status to on-hold"
+msgstr "Verander de status in in de wacht"
+
+#: classes/Filter.php:168 includes/filter.php:211
+msgid "Processing"
+msgstr "In behandeling"
+
+#: classes/Filter.php:169 includes/filter.php:212
+msgid "Change order status to processing"
+msgstr "Wijzig de status van de bestelling naar in verwerking"
+
+#: classes/Filter.php:183 includes/filter.php:220
+msgid "Completed"
+msgstr "Afgerond"
+
+#: classes/Filter.php:184 includes/filter.php:221
+msgid "Change order status to completed"
+msgstr "Verander de status in afgerond"
+
+#: classes/Filter.php:191 includes/filter.php:228
+msgid "Change status: "
+msgstr "Verander de status:"
+
+#: classes/Filter.php:224 includes/filter.php:118
+msgid "Phone:"
+msgstr "Telefoon:"
+
+#: classes/Filter.php:228
+msgid "Email:"
+msgstr "E-mail:"
+
+#: classes/Filter.php:257 includes/filter.php:131 includes/filter.php:184
+msgid "Via"
+msgstr "By"
+
+#: classes/Filter.php:283 classes/Filter.php:284 includes/filter.php:105
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: classes/Filter.php:338 includes/filter.php:291
+#, php-format
+msgid "%s items purchased"
+msgstr "%s producten gekocht"
+
+#: classes/Plugin.php:87
+msgid "Deactivated Enhanced order list for WooCommerce: "
+msgstr "Verbeterde bestellijst voor WooCommerce is gedactiveerd:"
+
+#: classes/Plugin.php:88
+msgid "WooCommerce needs to be installed and activated"
+msgstr "WooCommerce moet worden geïnstalleerd en geactiveerd"
+
+#: includes/filter.php:12
+msgid "Order"
+msgstr "Bestelling"
+
+#: includes/filter.php:94 includes/filter.php:153
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/filter.php:157
+msgid "Guest"
+msgstr "Gast"
+
+#: includes/filter.php:161
+#, php-format
+msgid "%1$s by %2$s"
+msgstr "%1$s door %2$s"
+
+#. Plugin Name of the plugin/theme
+msgid "Enhanced order list for WooCommerce"
+msgstr "Verbeterde bestellijst voor WooCommerce:"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/puddinq-order-list/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enhances the WooCommerce orders screen with practical information."
+msgstr "Verbetert het WooCommerce-bestelscherm met praktische informatie."
+
+#. Author of the plugin/theme
+msgid "Stefan Schotvanger"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.puddinq.nl/wip/stefan-schotvanger/"
+msgstr ""

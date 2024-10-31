@@ -1,0 +1,27 @@
+
+
+.post-type-shop_order table.wp-list-table tbody tr td {
+    vertical-align: top;
+}
+
+.post-type-shop_order table.wp-list-table tbody tr td.order_number a {
+    float: none;
+    margin: 5px 12px;
+}
+
+.post-type-shop_order table.wp-list-table tbody tr td.order_number {
+    width: 4ch;
+    padding-top:5px;
+}
+
+.post-type-shop_order table.wp-list-table tbody tr td.order_date {
+    width: 6ch;
+}
+
+.post-type-shop_order table.wp-list-table tbody tr td.column-order_title {
+    font-weight: 600;
+}
+
+.post-type-shop_order table.wp-list-table tbody tr td.qty {
+    min-width: 1.5em!important;
+}
